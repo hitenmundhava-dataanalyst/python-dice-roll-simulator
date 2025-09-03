@@ -9,3 +9,6 @@ A simple Python project to simulate dice rolls, calculate probabilities, and dem
 - ✅ **continue**: skip invalid attempts (e.g., skip rolling a 1)  
 - ✅ **Generator**: yield results one by one  
 - ✅ Calculate probability distribution of outcomes  
+
+## Projects
+- [Dice roll simulator](Dice%20Roll%20Probability%20Simulator.py)
